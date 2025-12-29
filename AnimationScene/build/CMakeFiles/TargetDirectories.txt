@@ -1,0 +1,3 @@
+/home/peter/POUB/vtk-3D/AnimationScene/build/CMakeFiles/AnimationScene.dir
+/home/peter/POUB/vtk-3D/AnimationScene/build/CMakeFiles/edit_cache.dir
+/home/peter/POUB/vtk-3D/AnimationScene/build/CMakeFiles/rebuild_cache.dir
